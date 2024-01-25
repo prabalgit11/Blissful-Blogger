@@ -1,0 +1,23 @@
+.home-header {
+  text-align: center;
+}
+
+.home-header h2 {
+  color: #ff6f00;
+  font-size: 2rem;
+}
+
+.home-header h1 {
+  font-size: 3rem;
+  color: #ff6f00;
+  margin-bottom: 1rem;
+}
+
+.home-header h1 span {
+  color: #ff9341;
+}
+
+.home-header p {
+  color: #ff9341;
+  font-weight: 500;
+}
